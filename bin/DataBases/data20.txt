@@ -1,0 +1,20 @@
+1   Izzy   Male   30 Ashdown   E5 8sl   0   24.6   34.7   
+2   Paula   Female   197 Kyvlerdale Road   N16   47.0   93.0   84.0   
+3   Adnan   Male   Plaistow   e7   34.3   67.3   49.2   
+4   Amir   Male   123 Fakeville   E5   4.0   23.0   23.0   
+5   Maria   Female   50 Camden Road   N12   85.0   38.4   29.6   
+6   Christian   Male   10 Hareingey Street   N4   64.2   96.3   74.4   
+7   Essa   Male   74 Croydon Road   SE4   73.2   83.5   34.5   
+8   Sandor   Male   2 Kenstington Street   NW2   63.1   24.7   96.3   
+9   Junaid   Male   342 Tottenahm Street   N4   63.2   93.2   19.4   
+10   Izzy   Male   30 Ashdown   E5 8sl   47.0   24.6   34.7   
+11   Izzy   Male   30 Ashdown   E5 8sl   47.0   24.6   34.7   
+12   12   Male   12   12   100.0   100.0   100.0   
+13   13   Male   13   13   100.0   100.0   100.0   
+14   Amir   Male   123 Fakeville   E5   4.0   23.0   23.0   
+15   Maria   Female   50 Camden Road   N12   85.0   38.4   29.6   
+16   Christian   Male   10 Hareingey Street   N4   64.2   96.3   74.4   
+17   Essa   Male   74 Croydon Road   SE4   73.2   83.5   34.5   
+18   Sandor   Male   2 Kenstington Street   NW2   61.1   24.7   96.3   
+19   Junaid   Male   342 Tottenahm Street   N4   63.2   93.2   19.4   
+20   Izzy   Male   30 Ashdown   E5 8sl   100.0   24.6   34.7   
